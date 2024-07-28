@@ -7,7 +7,7 @@
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-coutinho-9b368a258/)
 
-![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioCoutinho&show_icons=true&theme=dracula)
+![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioCoutinho1&show_icons=true&theme=dracula)
 
 Atualmente, estou cursando Engenharia de Software e mergulhando no universo do desenvolvimento front-end. Tenho paixão por criar experiências de usuário intuitivas e visualmente atraentes. Estou sempre aprendendo e aplicando novas tecnologias e práticas para construir interfaces web inovadoras e funcionais.
 
