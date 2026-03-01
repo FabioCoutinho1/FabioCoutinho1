@@ -5,7 +5,7 @@
 
 📫 Conecte-se Comigo
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-coutinho-9b368a258/)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fabio-coutinho-9b368a258/](https://www.linkedin.com/in/fabio-coutinho-/))
 
 Atualmente, estou cursando Engenharia de Software e mergulhando no universo do desenvolvimento front-end. Tenho paixão por criar experiências de usuário intuitivas e visualmente atraentes. Estou sempre aprendendo e aplicando novas tecnologias e práticas para construir interfaces web inovadoras e funcionais.
 
